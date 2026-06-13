@@ -1,0 +1,21 @@
+# Commandes pour creer un environnement
+    ! Version longue 
+     'conda create --name nom_de_l_environnement'
+    
+    ! Version courte 
+     'conda create -n nom_de_l_environnement'
+     
+    ! Pour inclure une version spécifique de Python ou d'autres paquets dès la création, ajoutez-les à la commande :
+     'conda create --name mon_env python=3.11 numpy pandas'
+     
+# Commandes pour activer un environnement
+    'conda activate nom_de_l_environnement'
+    
+# Commandes pour desactiver un environnement
+    'conda deactivate'
+    
+# Commandes pour supprimer un environnement
+    'conda remove -n nom_de_l_environnement --all'
+    
+# Commandes pour 
+

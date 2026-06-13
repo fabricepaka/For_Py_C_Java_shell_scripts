@@ -1,0 +1,6 @@
+# Commandes pour connecter chacun de mes comptes github avec mon local git
+
+Exemple:'git clone git@github.com-fabricepaka:fabricepaka/For_Py_C_Java_shell_scripts.git'
+
+# lien manage multiple multiple accounts
+https://dzone.com/articles/managing-multiple-github-accounts
